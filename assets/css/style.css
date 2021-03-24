@@ -120,6 +120,96 @@ nav a, div a{
 
 }
 
+.columns{
+    background-color: white;
+    height:600px;
+    margin-top:80px;
+
+}
+
+
+
+.column1{
+    width:25%;
+    height:100%;
+    float:left;
+}
+
+
+.column2{
+    width:20%;
+    height:100%;
+    float:left;
+    margin-left:15%;
+}
+
+
+.column3{
+    width:25%;
+    height:100%;
+    float:left;
+    margin-left:15%;
+}
+
+
+
+
+#img_profile{
+    height:250px;
+    position: relative;
+    left: 155px;
+
+
+   
+}
+
+#img_computer{
+    height:250px;
+    position: relative;
+    left: 10%;
+
+}
+
+#img_doc{
+    height:250px;
+    position: relative;
+    left: 20%;
+   
+
+}
+
+
+
+#green_title{
+    color:#7CBB02;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+  
+   
+
+}
+
+hr{
+    margin: 20px 200px;
+}
+
+.columns p{
+    color:#818181;
+    font-size:20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top:40px;
+   
+
+
+}
+
+
+
+
+
+
 
 
 
