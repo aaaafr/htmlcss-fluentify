@@ -208,6 +208,78 @@ hr{
 
 
 
+.img_mountain{
+    width:50%;
+    height:100%;
+    float:left;
+}
+
+
+.text{
+    width:50%;
+    height:100%;
+    float:left;
+}
+
+#main_title{
+    color:black;
+    font-size: 90px;
+    font-weight: 400;
+    margin-top: 10%;
+
+}
+
+#main_p{
+    color:#818181;
+    font-size:50px;
+    font-weight: 400;
+    margin-top: 10%;
+
+}
+
+
+#blue_link{
+    color: blue;
+    text-decoration: underline;
+    text-transform: none;
+    font-size: 40px;
+    margin:auto;
+
+}
+
+
+.site_footer{
+    width:100%;
+    height:200px;
+    background-color: #D3D3D3;;
+    margin-top: 300px;
+    
+}
+
+
+h2{
+    font-size: 50px;
+    padding:3%;
+    float:left
+    
+}
+
+#footer_p{
+    color:#818181;
+    padding:3%;
+    float:left;
+    font-size: 30px;
+}
+
+.footer_link{
+   margin-top: 3%;
+   float:left
+
+}
+
+
+
+
 
 
 
