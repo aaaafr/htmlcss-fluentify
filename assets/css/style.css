@@ -6,6 +6,7 @@
 
 
 body{
+    min-width: 80%;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 }
@@ -260,7 +261,7 @@ hr{
 h2{
     font-size: 50px;
     padding:3%;
-    float:left
+    float:left;
     
 }
 
@@ -273,7 +274,7 @@ h2{
 
 .footer_link{
    margin-top: 3%;
-   float:left
+   float:left;
 
 }
 
